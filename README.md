@@ -3,5 +3,5 @@ Canvas get RGB
 
 
 # function
-  -[ ] getRGB
-  -[ ] readImage
+  - [ ] getRGB
+  - [ ] readImage
