@@ -1,7 +1,7 @@
-# Canvas-get-RGB
-Canvas get RGB 
+# Get Image Average Color
+  Image Average Color
 
 
 # function
-  - [ ] getRGB
-  - [ ] readImage
+  - [x] getHexColor
+  - [x] imgAvgCal
