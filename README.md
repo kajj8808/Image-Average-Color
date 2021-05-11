@@ -1,5 +1,5 @@
-# Get Image Average Color
-  Image Average Color
+# Get Image Average HexColor
+  image -> Image average hexColor
 
 
 # function
