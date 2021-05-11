@@ -5,7 +5,6 @@ const hexCal = (dec) => {
 };
 
 const getHexColor = async (data) => {
-  //https://www.google.com/search?q=node+js+stats&oq=node+js+stats&aqs=chrome..69i57j0i19j0i19i30l4&sourceid=chrome&ie=UTF-8
   const {
     channels: [rc, gc, bc],
   } = await sharp(data).stats();
