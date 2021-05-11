@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "image -> Image average hexColor",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kajj8808/Image-Average-Color"
+  },
+  "keywords": [
+    "Canvas"
+  ],
+  "author": "sss003366@naver.com",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.28.2"
+  }
+}
