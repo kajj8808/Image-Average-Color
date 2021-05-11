@@ -1,5 +1,5 @@
 # Image Average HexColor
-  local image -> Image average hexColor
+  image -> Image average hexColor
 
 
 # function
