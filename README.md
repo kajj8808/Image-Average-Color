@@ -1,4 +1,4 @@
-# Get Image Average HexColor
+# Image Average HexColor
   image -> Image average hexColor
 
 
